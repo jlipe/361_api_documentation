@@ -28,6 +28,8 @@
 | CNBC |
 | Financial Times |
 | Crypto News |
+| PC Gamer |
+| Kotaku |
 
 #### Response
 [
