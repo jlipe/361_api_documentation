@@ -9,8 +9,8 @@
 
 | Paramater | Description | Optional |
 | ------ | ------ | ------ |
-| Sources | Comma seperated list of sources | No
-| Limit | Per source article limit | Yes (defaults to 5)
+| sources | Comma seperated list of sources | No
+| limit | Per source article limit | Yes (defaults to 5)
 
 #### NOTE: The sources must be capatlized and spelled exactly as described in the possible sources below
 #### The comma seperated format would look like sources=DailyFX,NY+Times,Mother+Jones
